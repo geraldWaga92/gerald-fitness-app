@@ -88,15 +88,22 @@ body {
   transition: 0.3s all ease-in-out;
 }
 
+/* .input:focus {
+  outline: none;
+
+} */
+
 .exercise-card:hover,
 .bodyPart-card:hover {
   transform: scale(1.1, 1.1);
 }
 
 .search-btn:hover {
-  color: #FF2625 !important;
+  color: #4F4557 !important;
   border: 1px solid #FF2625 !important;
+  
 }
+
 
 .exercise-video {
   display: flex;
